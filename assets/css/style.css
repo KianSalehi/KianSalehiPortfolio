@@ -261,7 +261,7 @@ section {
 }
 
 .section-bg {
-  background: #f5f8fd;
+  background: rgba(100,100,100,0.2);
 }
 
 .section-title {
